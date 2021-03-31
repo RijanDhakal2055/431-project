@@ -1,5 +1,0 @@
-1. # Done Get the name of the files and folder
-1. Try and get a directory tree apparently with os walk
-2.  Try to ger a nested list of the folder with the hierarchy intact
-2. #Done - Remove the name of the python folder to make it cleaner for down the line
-3. 
